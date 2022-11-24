@@ -13,10 +13,10 @@
 
 <h3>Screenshots</h3>
  <p align="center">
-  <img src="/src/resources/s1.png" width="700" title="HomePage" alt="Web-App">
+  <img src="/src/screenshots/s1.png" width="700" title="HomePage" alt="Web-App">
   <br><br>
-  <img src="/src/resources/assets/s2.png" width="700" title="Search Results" alt="Search Results">
+  <img src="/src/screenshots/assets/s2.png" width="700" title="Search Results" alt="Search Results">
   <br><br>
-  <img src="/src/resources/assets/s3.png" width="700" title="History" alt="History">
+  <img src="/src/screenshots/assets/s3.png" width="700" title="History" alt="History">
  </p>
 
