@@ -15,8 +15,8 @@
  <p align="center">
   <img src="/src/screenshots/s1.png" width="700" title="HomePage" alt="Web-App">
   <br><br>
-  <img src="/src/screenshots/assets/s2.png" width="700" title="Search Results" alt="Search Results">
+  <img src="/src/screenshots/s2.png" width="700" title="Search Results" alt="Search Results">
   <br><br>
-  <img src="/src/screenshots/assets/s3.png" width="700" title="History" alt="History">
+  <img src="/src/screenshots/s3.png" width="700" title="History" alt="History">
  </p>
 
