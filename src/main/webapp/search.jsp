@@ -28,8 +28,8 @@
 <html>
 <body>
     <div class="controls">
-        <a href="http://localhost:8080/Search-Engine"><div class="control"><i class="fa fa-home"></i></div></a>
-       <a href="http://localhost:8080/Search-Engine/history"><div class="control"><i class="fa fa-history"></i></div></a>
+        <a href="https://ksearch-engine.herokuapp.com/"><div class="control"><i class="fa fa-home"></i></div></a>
+       <a href="https://ksearch-engine.herokuapp.com/history"><div class="control"><i class="fa fa-history"></i></div></a>
     </div>
 
     <div class="search-results">

@@ -38,7 +38,7 @@ public class Search extends HttpServlet {
             //Inserting data into database
             PreparedStatement preparedStatement = connection.prepareStatement("Insert into history values (?,?,CURDATE(), CURTIME())");
             preparedStatement.setString(1, keyword);
-            preparedStatement.setString(2, "http://localhost:8080/Search-Engine/search?keyword=" + keyword);
+            preparedStatement.setString(2, "https://ksearch-engine.herokuapp.com/search?keyword=" + keyword);
             preparedStatement.executeUpdate();
 
             request.setAttribute("results", results);

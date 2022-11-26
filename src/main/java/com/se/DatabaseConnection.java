@@ -10,9 +10,9 @@ public class DatabaseConnection {
     public static Connection getConnection() {
         if(connection != null ) return connection;
 
-        String user = "root";
-        String pass = "hello";
-        String db = "SearchEngine";
+        String user = "sql6580886";
+        String pass = "1xt2y6rjlZ";
+        String db = "sql6580886";
 
         return getConnection(user, pass, db);
     }
@@ -20,7 +20,7 @@ public class DatabaseConnection {
     private static Connection getConnection(String user, String pass, String db) {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            connection = DriverManager.getConnection("jdbc:mysql://localhost/"+db+"?user="+user+"&password="+pass);
+            connection = DriverManager.getConnection("jdbc:mysql://sql6.freesqldatabase.com/"+db+"?user="+user+"&password="+pass);
         }
         catch (Exception exception) {
             exception.getStackTrace();

@@ -33,25 +33,25 @@
             </div>
         </form>
         <div class="bookmark">
-              <a href = "http://localhost:8080/Search-Engine"><div class="bookmark-card">
+              <a href = "https://ksearch-engine.herokuapp.com/"><div class="bookmark-card">
                 <div class="bookmark-icon">
                     <span class="icon"><i class="fa fa-home"></i></span>
                 </div>
                 <p class="bookmark-text">Home</p>
              </div></a>
-             <a href = "http://localhost:8080/Search-Engine/history"><div class="bookmark-card">
+             <a href = "https://ksearch-engine.herokuapp.com/history"><div class="bookmark-card">
                 <div class="bookmark-icon">
                    <span class="icon"><i class="fa fa-history"></i></span>
                 </div>
                 <p class="bookmark-text">History</p>
             </div></a>
-            <a href = "/"><div class="bookmark-card">
+            <a href = "https://github.com/kundan-6646/Search-Engine"><div class="bookmark-card">
                <div class="bookmark-icon">
                   <span class="icon"><i class="fa fa-github"></i></span>
                </div>
                <p class="bookmark-text">Source Code</p>
            </div></a>
-           <a href = "/"><div class="bookmark-card">
+           <a href = "https://github.com/kundan-6646/"><div class="bookmark-card">
                <div class="bookmark-icon">
                   <span class="icon"><i class="fa fa-linkedin"></i></span>
                </div>
