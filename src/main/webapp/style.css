@@ -1,5 +1,5 @@
 body {
-	background-color: #494949 !important;
+	background-color: #3C4048!important;
 	margin: 0;
 }
 
@@ -99,7 +99,7 @@ a {
 
 .s-title {
     font-size: 20px;
-    color: #0d6efd;
+    color: #A5F1E9;
     width: 100%;
     margin-top: 6px;
 }
@@ -178,7 +178,7 @@ a {
 }
 
 .history-item .time {
-    color: #C7BCA1;
+    color: #A5F1E9;
     font-weight: bold;
 }
 
@@ -187,5 +187,5 @@ a {
 }
 
 .history-item .link {
-    color: #C7BCA1;
+    color: #A5F1E9;
 }
