@@ -15,7 +15,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 
     <!-- logo -->
-    <link rel="icon" href="https://toppng.com/uploads/preview/search-icon-customer-icon-11564158924ifw7wyjtfu.png">
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/122/122932.png">
 
     <!-- Font-awesome -->
   	<script src="https://use.fontawesome.com/07d62e5a9f.js"></script>

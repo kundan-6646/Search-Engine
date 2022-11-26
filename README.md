@@ -7,7 +7,7 @@
   <li>Added different routes - Search Engine, History.</li>
   <li>Java Servlet and JSP are used as back-end technology in web app development.</li>
   <li>MySQL DB is used as database.</li>
-  <li>Rendering user search history by sorting them on basis on date/time.</li>
+  <li>Rendering user search history by sorting them based on Date/Time.</li>
  </ul>
 
 
